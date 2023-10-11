@@ -1,0 +1,12 @@
+{
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "oas": "^23.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}

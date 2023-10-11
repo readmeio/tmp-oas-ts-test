@@ -1,0 +1,4 @@
+# ignore everything except the `oas` package.json
+node_modules/*/*
+node_modules/*.json
+!node_modules/oas/package.json
